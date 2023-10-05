@@ -1,6 +1,9 @@
 package com.gittest;
 
 public class Main {
-    String name = "Leandro";
-    int idade = 10;
+    public static void main(String[] args) {
+        System.out.println("Teste 1");
+        System.out.println("Teste 2");
+        System.out.println("Teste 3");
+    }
 }

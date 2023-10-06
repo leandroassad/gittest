@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a95d25be-17bf-4714-b974-47e790e6e7dd" name="Changes" comment="eee">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gittest/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/gittest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gittest/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

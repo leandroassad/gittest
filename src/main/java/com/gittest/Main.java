@@ -2,11 +2,12 @@ package com.gittest;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Teste 1");
-        System.out.println("Teste 2");
-        System.out.println("Teste 3");
-        System.out.println("Teste 4");
-	System.out.println("Teste 5");
-	System.out.println("Teste 6");
+    	Print p = new Print();
+        p.print("Teste 1");
+        p.print("Teste 2");
+        p.print("Teste 3");
+        p.print("Teste 4");
+        p.print("Teste 5");
+        p.print("Teste 6");
     }
 }

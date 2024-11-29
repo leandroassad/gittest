@@ -6,6 +6,6 @@ public class Print {
     }
 
     public void print(String line) {
-        System.out.println(line);
+        System.out.println("Linha = " + line);
     }
 }
